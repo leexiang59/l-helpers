@@ -1,6 +1,6 @@
 {
   "name": "l-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Common JavaScript utility functions.",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,12 @@
     "helpers"
   ],
   "author": "leexiang59",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leexiang59/l-helpers.git"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
