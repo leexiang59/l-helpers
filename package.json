@@ -1,0 +1,16 @@
+{
+  "name": "l-helpers",
+  "version": "1.0.0",
+  "description": "Common JavaScript utility functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "util",
+    "utils",
+    "helpers"
+  ],
+  "author": "leexiang59",
+  "license": "ISC"
+}
