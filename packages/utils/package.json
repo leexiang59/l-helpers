@@ -1,6 +1,6 @@
 {
   "name": "l-helpers",
-  "version": "1.0.1",
+  "version": "0.0.1",
   "description": "Common JavaScript utility functions.",
   "main": "index.js",
   "scripts": {
